@@ -34,3 +34,12 @@ git commit -m "Proyecto Base"
 git status 
 ```
 
+- CREAMOS CUENTA EN GITHUB - VINCULAMOS REPO
+``` bash
+git remote add origin https://github.com/emess9/pruebagithub.git
+``` 
+
+- Para subir los commits al repo a la nube uso 
+``` bash
+git push origin master 
+``` 
